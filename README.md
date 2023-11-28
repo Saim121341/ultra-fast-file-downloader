@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Saim Fast Python Downloader</title>
-</head>
-<body>
-
-
-
 <h1 align="center">Saim Fast Python Downloader</h1>
 
 <!-- Project Description -->
